@@ -21,14 +21,14 @@ developed work through interaction design and human-centered design process to d
 • Report 3: High Fidelity Prototype (fully functioned) & adding Expert Evaluations from other group's member
 
 Example App Features: 
-<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/home-page.jpg" width="40%">
-<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-new-popup.jpg" width="40%">
-<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-timer.jpg" width="40%">
-<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/achievements-popup" width="40%">
-<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/notification.jpg" width="40%">
+<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/home-page.jpg" width="30%">
+<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-new-popup.jpg" width="30%">
+<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-timer.jpg" width="30%">
+<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/achievements-popup.jpg" width="30%">
+<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/notification.jpg" width="30%">
 
 The relationships of interaction shown on Adobe XD:
-<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/deco2500%20app.png" width="40%">
+<img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/deco2500%20app.png" width="30%">
 
 # What I learned
 - The fundamental guidelines and heuristics of user interface design to inform the creation of strong user interfaces, from major principles like discoverability and affordances to frameworks like distributed cognition and task analysis.

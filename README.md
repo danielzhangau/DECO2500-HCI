@@ -16,9 +16,9 @@ With that being said, the functionality of the application is able to be split i
 task management, time management, progress and incentives.
 
 developed work through interaction design and human-centered design process to develop an interactive system - an application (FOCUS) in a group of size four. Completed the three 'cycles' of the process:
-• Report 1: Contextual Inquiry, Conceptual Design, Low Fidelity Prototype (Paper prototyping) & Initial Evaluation
-• Report 2: Adding in UX, Medium Fidelity Prototype developed by Adobe XD & adding Rigorous Empirical Evaluation
-• Report 3: High Fidelity Prototype (fully functioned) & adding Expert Evaluations from other group's member
+- Report 1: Contextual Inquiry, Conceptual Design, Low Fidelity Prototype (Paper prototyping) & Initial Evaluation
+- Report 2: Adding in UX, Medium Fidelity Prototype developed by Adobe XD & adding Rigorous Empirical Evaluation
+- Report 3: High Fidelity Prototype (fully functioned) & adding Expert Evaluations from other group's member
 
 Example App Features: 
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/home-page.jpg" width="30%">

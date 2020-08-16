@@ -21,9 +21,14 @@ developed work through interaction design and human-centered design process to d
 • Report 3: High Fidelity Prototype (fully functioned) & adding Expert Evaluations from other group's member
 
 Example App Features: 
+![home page](https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/home-page.jpg)
+![create-new-popup](https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-new-popup.jpg)
+![create-timer](https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-timer.jpg)
+![achievements-popup](https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/achievements-popup.jpg)
+![notification](https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/notification.jpg)
 
 The relationships of interaction shown on Adobe XD:
-![relationship]()
+![relationship](https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/deco2500%20app.png)
 
 # What I learned
 - The fundamental guidelines and heuristics of user interface design to inform the creation of strong user interfaces, from major principles like discoverability and affordances to frameworks like distributed cognition and task analysis.

@@ -20,14 +20,14 @@ developed work through interaction design and human-centered design process to d
 - Report 2: Adding in UX, Medium Fidelity Prototype developed by Adobe XD & adding Rigorous Empirical Evaluation
 - Report 3: High Fidelity Prototype (fully functioned) & adding Expert Evaluations from other group's member
 
-Example App Features: 
+Example App Features:  
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/home-page.jpg" width="30%">
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-new-popup.jpg" width="30%">
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/create-timer.jpg" width="30%">
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/achievements-popup.jpg" width="30%">
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/notification.jpg" width="30%">
 
-The relationships of interaction shown on Adobe XD:
+The relationships of interaction shown on Adobe XD:  
 <img src="https://github.com/danielzhangau/Time-Management-Application-Design/blob/master/deco2500%20app.png" width="30%">
 
 # What I learned
